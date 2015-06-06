@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "yeoman-generator": "~0.13.0",
-        "phonegap": ">=3.3.0",
+        "phonegap": ">=3.5.0",
         "extended-fs": "~0.3.1"
     },
     "devDependencies": {
